@@ -1,7 +1,11 @@
 # EduElo-Cheat
 
 1 Go to https://www.eduelo.pl
+
+
 2 Start test
+
+
 3 Open console and paste this :
 
 const myResponse = Response.error();
