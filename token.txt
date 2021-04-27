@@ -1,2 +1,0 @@
-var message:string = "Script created by https://github.com/MaciusBTW" 
-console.log(message)
