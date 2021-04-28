@@ -8,7 +8,6 @@
 
 
 3 Open console and paste this :
-
                               const myResponse = Response.error();
 try {
   myResponse.headers.set('Origin', 'https://github.com/MaciusBTW/EduElo-Cheat/blob/main/autocomplete.js');
